@@ -20,6 +20,7 @@ i {
 table {
     color: #fff;
     border-image: auto;
+    margin-bottom: 5em;
     animation: borderAnim1 5s infinite;
 }
 
@@ -47,6 +48,27 @@ table {
     }
 }
 
+@keyframes tableAnim {
+    0%{
+        border-bottom: dotted;
+        border-width: 2px;
+        border-style: solid;
+        border-color: #00ccff;
+    }
+    50% {
+        border-bottom: dotted;
+        border-width: 2px;
+        border-style: solid;
+        border: 2px solid #d400d4;
+    }
+    100%{
+        border-bottom: none;
+        border-width: 2px;
+        border-style: solid;
+        border: 2px solid #00ccff;
+    }
+}
+
 th {
     text-align: center;
 }
@@ -55,8 +77,28 @@ td {
     text-align: center;
 }
 
-.dataTr:hover {
-    background: #0c1000;
+.dataTr1:hover, .dataTr2:hover {
+    background: #0c1015;
+}
+
+.dataTr1 {
+    border: none;
+    background: #0c1032;
+}
+
+.dataTr2 {
+    border:none;
+    background: #0c1047;
+}
+
+tr.dataTr1:nth-child(odd) {
+    border-top: none !important;
+    animation: tableAnim 5s infinite;
+}
+
+tr.dataTr1:nth-child(even) {
+    border-bottom: none !important;
+    animation: tableAnim 5s infinite;
 }
 
 .top {
