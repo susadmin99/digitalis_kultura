@@ -71,34 +71,26 @@ table {
 
 th {
     text-align: center;
+    background:  #d400d444;;
 }
 
 td {
     text-align: center;
+    padding: 0.2em;
 }
 
-.dataTr1:hover, .dataTr2:hover {
-    background: #0c1015;
-}
-
-.dataTr1 {
-    border: none;
-    background: #0c1032;
-}
-
-.dataTr2 {
-    border:none;
+tr:nth-child(odd) {
     background: #0c1047;
-}
-
-tr.dataTr1:nth-child(odd) {
-    border-top: none !important;
     animation: tableAnim 5s infinite;
 }
 
-tr.dataTr1:nth-child(even) {
-    border-bottom: none !important;
+tr:nth-child(even) {
+    background: #0c1032;
     animation: tableAnim 5s infinite;
+}
+
+tr:hover {
+    background: #0c1015;
 }
 
 .top {
