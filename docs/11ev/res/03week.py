@@ -1,3 +1,4 @@
+
 ablak = 10
 print(ablak)
 
