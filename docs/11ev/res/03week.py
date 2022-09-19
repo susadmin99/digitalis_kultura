@@ -1,7 +1,8 @@
 ablak = 10
 print(ablak)
+
 ajto = int(input("Ajtó mérete: "))
-print(str(ablak) + str(ajto))
+print(ablak + ajto)
 
 if ajto == 20:
     print("Az ajtó az 20.")
@@ -9,6 +10,7 @@ if ajto == 20:
 elif ajto == 30:
     print("Az ajtó az 30.")
     print(ablak/ajto)
+else:
+    print(f"Az ajtó: {ajto}")
 
 print(ajto == 30)
-
