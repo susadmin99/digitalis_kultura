@@ -1,0 +1,22 @@
+1.)
+  a) Hozz létre egy listát és adj hozzá 6 gyümölcsöt.
+  b) Írasd ki a lista utolsó elemét és a lista hosszát(méretét).
+
+2.)
+  a) Hozz létre egy listát ezekkel az adatokkal: [10, 20, 30, 40, 50, 60, 	70, 80, 90]
+  b) Számold ki a lista összes elemének az összegét.
+
+3.)
+  a) Hozz létre egy listát ezekkel az adatokkal: [12, 56, 23, 89, 124, 845, 	34, 1]
+  b) Csinálj egy új üres listát.
+  c) Az üres listához add hozzá az előző lista legnagyobb és legkisebb 	számát is.
+  d) Írasd ki a lista minden elemét egyesével.
+
+4.)
+  a) Kérj be 10 számot a felhasználótól és tárold el mindet egy listában.
+  b) Írasd ki a 10 szám átlagát.
+  c) Írasd ki a 10 szám közül a legkisebbet és legnagyobbat.
+  d) Írasd ki az össes szám négyzetét.
+
+5.)
+  a) Csinálj egy olyan programot, ami "gondol" egy számra és utána addig 	kérj be a felhasználótól     	számokat, amíg ki nem találja a számot. 	De közben adj hintet is, hogy a tippje az több vagy 	kevesebb volt-	e, mint a gondolt szám.(Barkóba) <3
