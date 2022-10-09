@@ -1,0 +1,13 @@
+1.
+  a) Hozz létre egy függvényt/function-t, amiben kiírod ennek a listának az összegét. -> [23,56,236,122,444,13,65,20,9,11]
+
+2.
+  a) Csinálj egy függvényt/function-t, amiben elosztod a paraméterként bekért számot 365-tel.
+
+3.
+  a) Csinálj egy függvényt/function-t, amiben bekérsz egy 'a' és 'b' számot, mintha egy téglalap két oldala lenne és kiszámolod a területüket.
+  b) Csinálj egy függvényt/function-t, amiben bekérsz egy 'a' és 'b' számot, mintha egy téglalap két oldala lenne és kiszámolod a kerületüket.
+
+4.
+  a) Kérj be a felhasználótól 5 nevet és tárold el egy listában.
+  b) Csinálj egy függvényt/function-t, amiben az előző listán végigmész és minden név elé kiírsz egy köszönést.
