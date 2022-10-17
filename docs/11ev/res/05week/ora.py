@@ -1,7 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
 egy_lista = ["első", "második", "harmadik", "negyedik", "ötödik"]
 szamok = [1, 2, 3, 4, 5]
 logika = [True, True, False, True, False]
-minden_is = ["első", 4, True, "hatvan", False, 42]
+minden_is = ["első", 4, True, "hatvan", False, 42.76]
 hmmm = [["egy", "kettő", "három"], [1, 2, 3]]
 
 print(len(logika))
@@ -41,3 +52,28 @@ print(sorrend)
 listavok = [["x","x","x"],["x","x","x"],["x","x","x"]]
 for elem in listavok:
     print(elem)
+
+
+
+
+
+
+
+
+
+
+
+
+
+szo = input("Adj meg egy szót: ")
+index = 0
+for betu in szo:
+    if betu == "a":
+        print(index)
+    index += 1
+
+
+
+szam = int(input("Adj meg egy számot 20-50 között: "))
+for valami in range(szam, 101):
+    print(valami)

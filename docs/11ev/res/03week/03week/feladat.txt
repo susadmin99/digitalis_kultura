@@ -1,0 +1,13 @@
+2022.09.19. 3. hét Python alapok
+
+1.)
+Készíts egy programot, amiben bekérsz egy vezetéknevet és egy keresztenevet a felhasználótól 
+és utána egy köszönéssel kiírod a teljes nevét.
+
+2.)
+Készíts egy programot, amiben bekérsz két számot a felhasználótól és utána minden alapműveletet elvégzel azzal a két számmal és kiírod.(összeadás, kivonás, szorzás, osztás)
+
++1.ötösért) Készíts egy programot, miben bekérsz egy számot a felhasználótól és kiírod, 
+hogy a bekért szám az páros vagy páratlan.
+(matematikai műveletet kell használni, hogy kitaláld, hogy páros vagy páratlan)
+

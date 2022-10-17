@@ -14,3 +14,36 @@ while megvan == False:
     elif tipp == gondolt_szam:
         print("YEEEEEEY Eltaláltad!")
         megvan = True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gyumolcsok = ["alma", "eper", "füge", "mangó", "cseresznye", "kiwi"]
+print("A lista utolsó eleme:")
+print(gyumolcsok[-1])
+
+print("A lista hossza:")
+print(len(gyumolcsok))
+
+szamok2 = [10, 20, 30, 40, 50, 60, 	70, 80, 90]
+osszeg = 0
+for valami in szamok2:
+    osszeg += valami

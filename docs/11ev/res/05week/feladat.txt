@@ -19,4 +19,4 @@
   d) Írasd ki az össes szám négyzetét.
 
 5.)
-  a) Csinálj egy olyan programot, ami "gondol" egy számra és utána addig 	kérj be a felhasználótól     	számokat, amíg ki nem találja a számot. 	De közben adj hintet is, hogy a tippje az több vagy 	kevesebb volt-	e, mint a gondolt szám.(Barkóba) <3
+  a) Csinálj egy olyan programot, ami "gondol" egy számra és utána addig 	kérj be a felhasználótól számokat, amíg ki nem találja a számot. 	De 	közben adj hintet is, hogy a tippje az több vagy kevesebb volt-	e, 	mint a gondolt szám.(Barkóba) <3
