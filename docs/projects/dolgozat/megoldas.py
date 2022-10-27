@@ -45,3 +45,5 @@ print(f"Az orvos neve: {orvos_nev}")
 print(f"Mai dátum: {datum}")
 for i in range(len(bmik)):
     print(bmi_type(bmik[i]))
+
+kilep = input()
