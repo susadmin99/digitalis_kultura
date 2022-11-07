@@ -5,11 +5,8 @@ window = tk.Tk()
 def say_hello():
     label2.config(text="Hello")
 
-
 def say_my_name():
     label2.config(text=f"Hello {entry1.get()}")
-
-
 
 btn1 = tk.Button(text="Say hello", command=say_hello)
 
@@ -24,7 +21,6 @@ entry1.pack()
 btn2.pack()
 label2.pack()
 
-
 window.mainloop()
 
 #feladat
@@ -36,7 +32,6 @@ def login():
     else:
         login_status = "Wrong credentials! Try again!"
         login_label.config(text=login_status)
-
 
 fl = tk.Tk()
 fl.geometry("300x150")
@@ -56,7 +51,6 @@ password_label.pack()
 password_entry.pack()
 login_btn.pack()
 login_label.pack()
-
 
 fl.mainloop()
 
