@@ -31,9 +31,6 @@ bemenet_szoveg = tk.Label(text="Name")
 #Entry - Bemeneti widget
 bemenet = tk.Entry()
 
-nev = bemenet.get()
-print(nev)
-
 szoveg_doboz = tk.Text()
 
 #mindent is csomagolunk
