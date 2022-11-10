@@ -61,7 +61,7 @@ fl2 = tk.Tk()
 #canvas
 cv = tk.Canvas(fl2, bg="grey", height=100, width=300)
 coord = 5, 5, 250, 150
-arc = cv.create_arc(coord, start=0, extent=150, fill="black")
+arc = cv.create_arc(coord, start=0, extent=150, fill="red")
 
 #check button
 cb = tk.Checkbutton(fl2, text="Test Check Button")
@@ -116,7 +116,6 @@ scale = tk.Scale( fl2)
 #spinbox
 sb = tk.Spinbox(fl2, from_=0, to=10)
 
-
 cv.pack()
 cb.pack()
 lb.pack()
@@ -129,3 +128,25 @@ sb.pack()
 fl2.config(menu=menubar)
 fl2.mainloop()
 
+
+from tkinter import *
+from tkinter import ttk
+
+def savePosn(event):
+    global lastx, lasty
+    lastx, lasty = event.x, event.y
+
+def addLine(event):
+    canvas.create_line((lastx, lasty, event.x, event.y))
+    savePosn(event)
+
+root = Tk()
+root.columnconfigure(0, weight=1)
+root.rowconfigure(0, weight=1)
+
+canvas = Canvas(root)
+canvas.grid(column=0, row=0, sticky=(N, W, E, S))
+canvas.bind("<Button-1>", savePosn)
+canvas.bind("<B1-Motion>", addLine)
+
+root.mainloop()
