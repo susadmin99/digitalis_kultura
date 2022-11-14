@@ -9,7 +9,6 @@ def startGame(event):
         countdown()
     nextColour() 
 
-
 def nextColour():
     global score 
     global timeleft

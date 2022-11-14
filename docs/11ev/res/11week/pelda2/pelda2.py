@@ -2,8 +2,6 @@ import tkinter as tk
 import ctypes
 ctypes.windll.shcore.SetProcessDpiAwareness(1)
 
-
-
 def convert_temp():
     if lbl_left['text']=='\N{DEGREE FAHRENHEIT}':
         temp_f = ent_temp.get()
