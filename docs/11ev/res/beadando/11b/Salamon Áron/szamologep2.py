@@ -1,7 +1,7 @@
 import math
 
 
-# primszámvizsgálat 2-tõl a szám négyzetgyökének lefele kerekített egész számáig egy ciklus és ha osztás után nincs maradék akkor nem prím
+
 def prim(n):
     if n < 2:
         return False
@@ -10,22 +10,22 @@ def prim(n):
             return False
     return True
 
-# faktoriális számítás, rekurzív módszer, bemenetet szorozza bemenet-1 -el
+# faktoriï¿½lis szï¿½mï¿½tï¿½s, rekurzï¿½v mï¿½dszer, bemenetet szorozza bemenet-1 -el
 def faktorialis(n):
     if n == 0:
         return 1
     else:
         return n * faktorialis(n-1)
 
-# radián ból fok számítás (radián*180/pi)
+# radiï¿½n bï¿½l fok szï¿½mï¿½tï¿½s (radiï¿½n*180/pi)
 def radfok(radian):
     return radian*(180/math.pi)
 
 while True:
     try:
         print()
-        szam1 = float(input("Kérek egy számot: "))
-        muv = input("Mûvelet (+, -, *, /, sin, cos, gyok, fok, prim, fakt): ")
+        szam1 = float(input("Kï¿½rek egy szï¿½mot: "))
+        muv = input("Mï¿½velet (+, -, *, /, sin, cos, gyok, fok, prim, fakt): ")
         if muv in ['sin','cos','gyok','fok','prim','fakt']:
             if muv == 'sin':
                 result = math.sin(szam1)
@@ -48,7 +48,7 @@ while True:
                 result = faktorialis(szam1)
                 print(szam1, "! = ", result)
         else:
-            szam2 = float(input("Kérek még egy számot: "))
+            szam2 = float(input("Kï¿½rek mï¿½g egy szï¿½mot: "))
             if muv == "+":
                 result = szam1 + szam2
                 print(szam1, "+", szam2, "=", result)
@@ -60,13 +60,13 @@ while True:
                 print(szam1, "*", szam2, "=", result)
             elif muv == "/":
                 if szam2 == 0:
-                    print("HIBA: nullával nem lehet osztani.")
+                    print("HIBA: nullï¿½val nem lehet osztani.")
                 else:
                     result = szam1 / szam2
                     print(szam1, "/", szam2, "=", result)
             else:
-                print("HIBA: Ismeretlen mûvelet.")
+                print("HIBA: Ismeretlen mï¿½velet.")
     except ValueError:
-        print("HIBA: Nem értelmezhetõ szám.")
+        print("HIBA: Nem ï¿½rtelmezhetï¿½ szï¿½m.")
     except:
         print("HIBA: Ismeretlen hiba.")
