@@ -1,5 +1,8 @@
 1. óra - UI, Gombok, az excel kinézete és oldalai
 2. óra - Alap függvények (min, max, avg, sum, count, darabteli, darabhatöbb), Alap adatokkal
+
 3. óra - 
 4. óra - 
-5- óra - 
+
+5. óra - 
+6. óra -  
