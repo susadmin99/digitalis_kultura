@@ -1,0 +1,8 @@
+Decision											
+											
+Job	Salary	3	Job pool	5	Fun	4	Personal talent	3	Schooling	1	Total
+Fast food worker	1		5		1		4		5		
+Football player	5		1		5		2		1		
+Truck driver	3		4		3		2		5		
+Programmer	4		5		4		4		3		
+Engineer	3		4		4		3		3		

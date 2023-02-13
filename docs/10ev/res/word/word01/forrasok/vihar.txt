@@ -1,0 +1,20 @@
+﻿Viharjelző rendszerek
+A többször módosított 46/2001. (XII. 27) BM rendelet alapján a Balatonon, a Velencei-tavon, a Tisza-tavon és a Fertő tavon minden év április elsejétől október harmincegyedikéig vihar-előrejelző és viharjelző szolgálat működik.
+Fontos információk
+A viharjelzés figyelemmel kísérése saját biztonságunk szempontjából fontos.
+Elsőfokú viharjelzés van érvényben, ha a viharjelző berendezés percenként 45-öt villan. Ebben az esetben úszni, csónakkal és más vízi sporteszközzel csak a parttól számított 500 méteren belül szabad tartózkodni. A szélirány figyelemmel kísérése nagyon fontos. Például, ha valaki az északi parton fürdik, amikor elrendelik az elsőfokú viharjelzést, és déli szél van, nem kell annyira aggódni, nagyok lesznek a hullámok (bár ezekkel is érdemes vigyázni), de mindenképpen hamar partot érünk, ha azonban északi szél van, és az északi parton vagyunk, akkor nagy a veszélye annak, hogy elsodródunk. Ilyenkor kerülni kell a gumimatracos, gumicsónakos stb. eszközökkel való fürdőzést, és ha már elvitte a szél a fürdőeszközt, akkor se ússzunk utána, nem érdemes kockáztatni az életünket pár ezer forintért.
+Másodfokú viharjelzés esetén a viharjelző lámpák percenként 90-szer villannak fel. Ebben az esetben a vihar rövid időn belüli megérkezését jelzik. Ilyen esetben fürödni tilos! Továbbá tilos csónakkal és más vízi sporteszközzel közlekedni (a vitorláshajók kivételével). Aki megszegi ezeket a szabályokat, az felelőtlenül kockáztatja az életét. A másodfokú viharjelzést nagyon sokszor nem veszik figyelembe a fürdőzők, pedig ők vannak a legkiszolgáltatottabb helyzetben. Ilyenkor számítani kell arra, hogy "porzani" fog a víz, ami azt jelenti, hogy a vízfelszín felett akár 40-50 cm magasságban is 80-90 % páratartalmú a levegő, tehát itt is szinte lehetetlen levegőt venni. Ilyen helyzetben arra kell törekedni, hogy kikerüljünk ebből a rétegből valamilyen módon.
+Hatályos jogszabályok
+A szabad vízen való tartózkodás alapvető szabályairól szóló 46/2001. (XII. 27.) BM rendeletből:
+4.§ (1) A Balatonon - keleti, középső és nyugati medencékre bontva -, a Velencei-tavon, a Tisza-tavon és a Fertő tavon minden év április elsejétől október harmincegyedikéig vihar-előrejelző és viharjelző szolgálat működik. A vihar-előrejelző rendszer technikai előkészítését, fejlesztését, létrehozását, valamint - a Fertő tavi viharjelző rendszer kivételével - a működtetést a BM Országos Katasztrófavédelmi Főigazgatóság végzi.
+(2) Az I. fokú viharjelzés (figyelmeztetés az elővigyázatosság betartására) - percenként negyvenötször felvillanó sárga fényjelzés - esetén a parttól 500 méternél nagyobb távolságra tilos fürödni, kivéve az országos sportági szakszövetség versenynaptárban szereplő, hivatásos, amatőr vagy vegyes versenyrendszerében, kizárólag versenyengedéllyel rendelkező versenyzők részvételével rendezett úszóversenyen (bajnokságon) való részvételt, ha azt a vízirendészeti hatóság engedélyezte mint vízi rendezvényt.
+(3) A II. fokú viharjelzés (figyelmeztetés a fenyegető veszélyre) - percenként kilencvenszer felvillanó sárga fényjelzés - esetén fürödni tilos.
+Meteorológiai adatok
+Fokozat	Légmozgás	Vízfelület
+Alapfok	Gyenge légmozgás (0-15 km/ó)	A víz sima.
+	Mérsékelt szél (15-25 km/ó)	Kisebb hullámzás.
+	Élénk szél (25-40 km/ó)	Kisebb hullámzás.
+Elsőfokú viharjelzés Percenként 45 villanás	Erős szél (40-60 km/ó)	Nagyobb hullámok jelennek meg, csónakok csak partközelben lehetnek.
+Másodfokú viharjelzés Percenként 90 villanás	Viharos szél (60-80 km/ó)	Nagy, tarajos hullámok jelennek meg. Csónakkal nem lehet a vízre menni, nagy vitorlások is csak a megfelelő intézkedések mellett.
+	Erős vihar (80-100 km/ó)	Hatalmas hullámok láthatóak, a hullámok tetejéről „elporzik” a víz. A motoros hajóknak is partra kell térniük.
+	Orkán (100 km/ó fölött)	Porzó víz, vízfüggöny alakulhat ki. A víz fölött a látástávolság 0 méter. Csak speciális mentőhajók mehetnek a vízre. 

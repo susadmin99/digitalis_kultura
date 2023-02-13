@@ -1,0 +1,24 @@
+Gradebook		Safety test	Financial test	Drug test		Safety test	Financial test	Drug test		Fire?
+	Max points	10	100	1						
+Last Name	First Name									
+Perry 	Cohen	10	93	1						
+Morris 	Stewart	9	100	1						
+Terry 	Flores	8	82	1						
+Guadalupe 	Benson	9	73	1						
+Georgia 	Carpenter	10	59	1						
+Emanuel 	Peters	9	100	1						
+Gladys 	Parks	8	100	0						
+Carlton 	Owen	5	100	1						
+Brenda 	Warren	10	67	1						
+Alejandro 	Jensen	9	70	1						
+Wilson 	Perry	10	80	1						
+Francis 	Fitzgerald	8	90	1						
+Alberta 	Weber	9	45	0						
+Richard 	Wagner	7	90	1						
+Johnny 	Walters	10	80	1						
+Brandy 	Roberson	11	69	1						
+Gwen	Glover	6	90	1						
+										
+Min										
+Max										
+Avg										
