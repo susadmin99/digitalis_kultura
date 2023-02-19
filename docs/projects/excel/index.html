@@ -9,10 +9,26 @@
 
     <style>
         body {
-            background: linear-gradient(to bottom, #003399, #e00808);
+            background: linear-gradient(to bottom, #0065fc, #00c9fc, #3c0bec);
+            background-size: 200% 200%;
+            animation: gradient 10s ease infinite;
             background-repeat: no-repeat;
             background-position: center;
             height: 950px;
+        }
+
+        @keyframes gradient {
+            0% {
+                background-position: 0% 0%;
+            }
+
+            50% {
+                background-position: 100% 100%;
+            }
+
+            100% {
+                background-position: 0% 0%;
+            }
         }
 
         h1 {
