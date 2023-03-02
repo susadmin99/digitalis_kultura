@@ -1,0 +1,8 @@
+1. tisztaszoftver.hu
+2. igénylés
+3. intézmény és személyes felhasználás -> személyes felhasználás
+4. papír vagy kréta -> kréta
+5. új oldalon login és utána kréta adatokkal kell belépni
+email visszaigazolás után registráció
+6. utána be is dob az oldalra ahol lehet igényelni az office-t
+7. az igénylés gombra kell kattintani utána pedig egy kis időbe telik amíg meglesz
