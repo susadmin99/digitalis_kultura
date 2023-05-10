@@ -1,0 +1,18 @@
+1. Adj meg 3 példát a hardware-re. /3
+2. Mi az a periféria? (1-2 mondatban add meg saját szavaiddal.) /2
+3. Mit rövidít a RAM? /1
+4. Mi a különbség a software és a hardware között? / 3
+5. Mit látsz a képen?
+  a. (GPU) /1
+  b. (CPU) /1
+  c. (alaplap) /1
+6. Mi a különbség az SSD meg a HDD között? /2
+7. A PSU minek a rövidítése? /1
+8. Miért hívjuk felejtő memóriának is a RAM-ot? /3
+9. Add meg, hogy a képen látható periféria kimeneti vagy bemeneti.
+  a. (egér) /1
+  b. (nyomtató) /1
+  c. (tablet) /1
+  d. (kontroller) /1
+10. Sorolj fel 3 fajta ROM-ot. /3
+Összesen: 25
