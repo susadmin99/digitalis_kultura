@@ -1,8 +1,8 @@
 <html>
 <body>
 
-Email címed: <?php echo $_POST["email"]; ?><br>
-Jelszavad: <?php echo $_POST["password"]; ?>
+Email címed: <?php $_POST["email"]; ?><br>
+Jelszavad: <?php $_POST["password"]; ?>
 ;DDDD
 </body>
 </html>
