@@ -1,0 +1,9 @@
+Mik lehetnek a dolgozatban?
+-Neumann elvek
+-Hardware(fogalom, példa rá)
+-Software)fogalom, példa rá)
+-RAM, ROM, PSU, MOTHERBOARD, CPU, GPU(alap hardwarek, mit csinálnak, miért kell a számítógépbe, adj rá példákat)
+-RAM vs ROM különbségek
+-ROM(adj meg példákat)
+-preifériák(külső/belső, megkülönböztetésük)
+Minden, ami az órán elhangzott, de internet keresés használható lesz dolgozat alatt.
